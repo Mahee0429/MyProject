@@ -1,2 +1,2 @@
 # MyProject
-trying my best
+Trying my best
